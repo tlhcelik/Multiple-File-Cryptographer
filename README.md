@@ -2,7 +2,7 @@
 
 General image to program. 
 
-##For crypt any files follow this steps :
+## For crypt any files follow this steps :
 
 1. Click **select file** button.
 2. Select your file with opened file dialog.
@@ -15,7 +15,7 @@ General image to program.
 
 ![Program Main](https://github.com/tlhcelik/Multiple-File-Cryptographer/blob/master/images/ss0.png)
 
-##For make a decrypt mc file follow these steps : 
+## For make a decrypt mc file follow these steps : 
 
 1. Select **mc** file and click **Decrypt file** button. 
 2. Then select **mcs** file in file dialog.
