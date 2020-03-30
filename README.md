@@ -11,7 +11,8 @@ General image to program.
 5. Select file path for crypted file.
 6. You can see files as crypted and combined one file from selected path.
 
-*crypted file extension is **mc** and secret file extension is **mcs** * 
+Note:
+- crypted file extension is **mc** and secret file extension is **mcs**
 
 ![Program Main](https://github.com/tlhcelik/Multiple-File-Cryptographer/blob/master/images/ss0.png)
 
