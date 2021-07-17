@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Cryit
-Exec=AppRun %F
-Icon=icon.jpeg
-Comment=Crypt any file
-Terminal=false
